@@ -35,3 +35,7 @@ Chahe Hindi mein batao, main usko in English chunks mein convert karne mein help
 - Flow fast tha ya slow tha? 
 
 👇 **Bol, kya chal raha hai currently?**
+
+
+## So basically what I'm doing is — I'm building a Super App for Ashva. It's used by three roles — technicians, sales people, and dealers. The idea here is to bring all three into a single app, so it's easier to manage and we only have one app on the Play Store.
+
