@@ -1,0 +1,1 @@
+7	Review Day — repeat all 6 days ke chunks ek baar	Record yourself 2 min speaking — listen back
